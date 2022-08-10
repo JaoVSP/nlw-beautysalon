@@ -7,7 +7,7 @@
 - CSS
 - JavaScript
 
- 📚 libraries:
+# 📚 libraries:
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)

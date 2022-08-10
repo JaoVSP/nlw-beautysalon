@@ -12,3 +12,8 @@
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollReveal](https://scrollrevealjs.org)
+
+# Installing:
+``` bash
+$ git clone git@github.com:Jaozim420/nlw-beautysalon.git
+```

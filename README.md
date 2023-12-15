@@ -15,5 +15,5 @@
 
 # Installing:
 ``` bash
-$ git clone git@github.com:Jaozim420/nlw-beautysalon.git
+$ git clone git@github.com:JaoVSP/nlw-beautysalon.git
 ```
